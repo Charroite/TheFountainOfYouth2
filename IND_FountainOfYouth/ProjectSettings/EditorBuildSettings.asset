@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FountainOfYouth_VILLAGE.unity
+    guid: 463320a2c682d2348a4f939c20e34d0f
+  - enabled: 1
+    path: Assets/Scenes/FountainOfYouth_LUMBER.unity
+    guid: 624b252130c913347b81fed4e39e7f06
+  - enabled: 1
+    path: Assets/Scenes/FountainOfYouth_CITY.unity
+    guid: 7d579652b80187945b5fe7dbcf734d1a
+  - enabled: 1
+    path: Assets/Scenes/FountainOfYouth_WITCH.unity
+    guid: 83eeaf023f3282d4e85cb6426990cf40
+  - enabled: 1
+    path: Assets/Scenes/FountainOfYouth_MOUNTAIN.unity
+    guid: b102f92645d00f04ca7a14a2f0db9b86
   m_configObjects: {}
