@@ -87,16 +87,16 @@ public class PlayerController : MonoBehaviour
             //sprint
             moveSpeed = Input.GetKey(KeyCode.LeftShift) ? sprintSpeed : walkSpeed;
 
-            if (Input.GetKey(KeyCode.C))
-            {
-                controller.height = 1.0f;
-                isCrouching = true;
-            }
-            else {
-                controller.height = 1.8f;
-                isCrouching = false;
-            }
-        }
+        //    if (Input.GetKey(KeyCode.C))
+       //     {
+       //         controller.height = 1.0f;
+      //          isCrouching = true;
+       //     }
+      //      else {
+      //          controller.height = 1.8f;
+        //        isCrouching = false;
+       //     }
+       }
 
 
 
